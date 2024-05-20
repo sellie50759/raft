@@ -1,6 +1,6 @@
 module github.com/justin0u0/raft
 
-go 1.17
+go 1.21
 
 require (
 	go.uber.org/zap v1.20.0
